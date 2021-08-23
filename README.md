@@ -1,4 +1,3 @@
-# ACCESSCODE
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="ACCESSCODE_PROJECT_0"></a>ACCESSCODE PROJECT</h1>
 <h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_______1"></a><em>Илья Болгов / Артем Ларионенко</em></h2>
 <p class="has-line-data" data-line-start="3" data-line-end="4"><img src="https://github.com/BolgovLarionenkoTeam/ACCESSCODE/blob/main/Logo.png/?raw=true" alt="accesscodeLogo"></p>
